@@ -1,2 +1,4 @@
 work/*
 config.py
+venv/*
+__pycache__/*
