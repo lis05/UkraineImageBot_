@@ -1,0 +1,1 @@
+This is the source of UkraineImageBot - a telegram bot created during the war in Ukraine. This bot could add a Ukrainian flag around any picture. It could also do a red-black variation of the flag. Unfortunatelly, due to the lack of money, I couldn't affort to keep this bot alive. 

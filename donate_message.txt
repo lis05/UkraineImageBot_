@@ -1,0 +1,32 @@
+You can donate some money or crypto to the developers (who are from Ukraine). 
+We *promise* that 70% of your donations will go to the Ukrainian Armed Forces and Ukrainian people.
+You can donate 100% of money to the Ukrainian Armed Forces: /help
+
+
+*BTC*
+Network: Bitcoin
+`1Gcna7kiJiVzZrV6F5dFCkrj3VPMp9KWLA`
+
+*ETH*
+Network: Ethereum (ERC20)
+`0xc338a472f5a258c3ed48ab8b7d40cb8dd61771a5`
+
+*NEAR*
+Network: NEAR Protocol
+`58d47a196d9afb354de8e23d625749b9b89762259267611527b8d0a2f1407eae`
+
+*Money*
+Mastercard
+`5168 7520 2171 6454` ( Privatbank )
+`5375 4114 1409 4081` ( Monobank )
+Write in a comment "My name is (your name here) and I support UkraineImageBot team!"
+
+Top donators:
+#DONATORS
+
+If you don't want to be in the list or you sent crypto and want to join donators - write @lis05st,@del1ke
+
+For more donators - /donators
+About this bot - /start
+
+
